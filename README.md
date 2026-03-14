@@ -34,7 +34,7 @@ paseydou.sow@univ-thies.sn
 Yaatal Digital — Senegal 🇸🇳
 
 ### Other Projects
-- [FloodGuardAI](https://github.com/ahmadous/FloodGuardAI-public)
+- [FloodGuardAI](https://github.com/ahmadous/FloodGuardAI)
   — AI flood detection system — WSIS Prizes 2026
 - [Credit Scoring DataTour 2025](https://github.com/ahmadous/credit-scoring-datatour2025)
   — Credit default risk prediction
