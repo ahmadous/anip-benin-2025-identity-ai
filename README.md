@@ -82,6 +82,13 @@ ANIP — Agence Nationale d'Identification des Personnes
 Benin | November 2025
 Final presentation: Palais des Congrès, Cotonou
 
+## Tache 1 — Detail complet (V2 → V9)
+
+Le repo ci-dessous contient toutes les iterations de la tache 1 :
+architectures, diagnostics, corrections, visualisations.
+
+👉 [paseydousow-design/anip-face-matching](https://github.com/paseydousow-design/anip-face-matching)
+
 ## Author
 Papa Ahmadou Seydou SOW
 paseydou.sow@univ-thies.sn
@@ -91,3 +98,4 @@ Yaatal Digital — Senegal 🇸🇳
 - [FloodGuardAI](https://github.com/ahmadous/FloodGuardAI)
   WSIS Prizes 2026 | AI for Good Impact Awards 2026
 - [Credit Scoring DataTour 2025](https://github.com/ahmadous/credit-scoring-datatour2025)
+
